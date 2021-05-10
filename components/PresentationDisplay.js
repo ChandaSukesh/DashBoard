@@ -77,11 +77,11 @@ function PPTScoreTable(props) {
           <Table bordered hover>
             <thead style={{ color: "white", background: "#CC3314" }}>
               <tr>
-                <th>Number of ppts</th>
-                <th>Total number of ppts conducted</th>
+                <th>Number of ppt</th>
+                <th>Total number of ppt conducted</th>
                 <th>Absent</th>
                 <th>Remedial</th>
-                <th>Average Score</th>
+                <th>Average scores</th>
               </tr>
             </thead>
             <tbody>

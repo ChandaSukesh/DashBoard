@@ -1,0 +1,46 @@
+{
+    "PresentationDisplay.js": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:52",
+            "keyStrokeInfo": "",
+            "position": "80,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:53",
+            "keyStrokeInfo": "\\",
+            "position": "81,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:54",
+            "keyStrokeInfo": "",
+            "position": "81,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:54",
+            "keyStrokeInfo": "",
+            "position": "81,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:57",
+            "keyStrokeInfo": "s",
+            "position": "84,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon May 10 2021 21:21:59",
+            "keyStrokeInfo": "scores",
+            "position": "84,29"
+        }
+    ]
+}
