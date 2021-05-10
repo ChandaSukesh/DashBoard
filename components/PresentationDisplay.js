@@ -86,11 +86,11 @@ function PPTScoreTable(props) {
             </thead>
             <tbody>
               <tr>
-                <td>{num_of_ppt}</td>
-                <td>{total_ppt}</td>
-                <td>{absent}</td>
-                <td>{remedial}</td>
-                <td>{average_score}</td>
+                <td>{num_of_ppts}</td>
+                <td>{total_ppts}</td>
+                <td>{absents}</td>
+                <td>{remedials}</td>
+                <td>{average_scores}</td>
               </tr>
             </tbody>
           </Table>
@@ -158,11 +158,11 @@ function PPTScoreTable(props) {
 export default function PresentationDisplay(props) {
   let capitalize_student_name = "";
   if (
-    typeof props.res.dashboard_data.grades["student_name"] !=
+    typeof props.res.dashboard_data.grades["student_names"] !=
     typeof undefined_var
   ) {
     let student_name_arr = props.res.dashboard_data.grades[
-      "student_name"
+      "student_names"
     ].split(" ");
     for (let i = 0; i < student_name_arr.length; i++) {
       capitalize_student_name +=
