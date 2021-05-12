@@ -94,7 +94,7 @@ function GradesCard(props) {
         <Container>
           <Row>
             <Col style={{ paddingLeft: 15 }}>
-              <Table bordered hover style={{ textAlign: "left" }}>
+              <Table responsive bordered hover style={{ textAlign: "left" }}>
                 <thead style={{ background: "#CC3314", color: "white" }}>
                   <tr style={{ textAlign: "center" }}>
                     <th scope="col" style={{ width: "20rem" }}>
